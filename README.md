@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact: Stars that burn brighter die out faster. Thankfully, LED bulbs just get dimmer.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruberald&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ⚡ Fun fact: Stars that burn brighter die out faster. Thankfully, LED bulbs just get dimmer.
 
+[![An image of @ruberald's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruberald)](https://holopin.io/@ruberald)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruberald&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![An image of @ruberald's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruberald)](https://holopin.io/@ruberald)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruberald&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubreadmestats.heinrichskies.repl.co/stats?username=Ruberald)](https://github.com/Ruberald/better-readme-stats)

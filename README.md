@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![An image of @ruberald's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruberald)](https://holopin.io/@ruberald)
 
-[![Top Langs](https://githubreadmestats.heinrichskies.repl.co/stats?username=Ruberald)](https://github.com/Ruberald/better-readme-stats)
+[![Top Langs]([https://githubreadmestats.heinrichskies.repl.co/stats?username=Ruberald](https://ca232235-f3d2-491e-8531-9f03f33dc5ae-00-2h5p2ogc2po63.spock.replit.dev/stats?username=Ruberald))](https://github.com/Ruberald/better-readme-stats)
